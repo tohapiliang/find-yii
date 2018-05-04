@@ -23,7 +23,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
 
                 <?= $form->field($model, 'email') ?>
-                <div>test</div>
+
                 <?= $form->field($model, 'nama_papa') ?>
 
                 <?= $form->field($model, 'password')->passwordInput() ?>
